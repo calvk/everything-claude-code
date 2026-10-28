@@ -1,0 +1,17 @@
+{
+  "enabledPlugins": {
+    "security@headcount": true,
+    "it-operations@headcount": true,
+    "legal-risk@headcount": true,
+    "data-analytics@headcount": true,
+    "technology@headcount": true
+  },
+  "extraKnownMarketplaces": {
+    "headcount": {
+      "source": {
+        "source": "github",
+        "repo": "cbrock84/headcount"
+      }
+    }
+  }
+}
